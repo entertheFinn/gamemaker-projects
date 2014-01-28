@@ -6,18 +6,12 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\spr_Coin</sprite>
-    <sprite>sprites\spr_Guy</sprite>
-    <sprite>sprites\spr_Coal</sprite>
+    <sprite>sprites\spr_Trainer</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\obj_Coin</object>
-    <object>objects\obj_Guy</object>
-    <object>objects\obj_Controller</object>
-    <object>objects\obj_ScorePanel</object>
-    <object>objects\obj_Coal</object>
+    <object>objects\obj_Trainer</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
