@@ -27,6 +27,8 @@
             <kind>1</kind>
             <string>/// keyboard movement
 
+friction = 1; 
+
 up = keyboard_check(vk_up);
 right = keyboard_check(vk_right);
 left = keyboard_check(vk_left);
